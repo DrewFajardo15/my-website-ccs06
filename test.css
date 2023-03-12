@@ -1,0 +1,69 @@
+body {
+    background: linear-gradient(to left,rgb(171, 92, 106), rgb(56, 158, 198));  
+}
+
+.man img {
+    filter: drop-shadow(2px 2px 140px white);
+    display: flex;
+    margin-left: 40%;
+    width: 40vh;
+    margin-top: 2%;
+}
+
+.keyboard img{
+    display: flex;
+    margin-left: 7%;
+    margin-top: -33%;
+    width: 40vh;
+}
+
+.gpu img {
+    display: flex;
+    margin-left: 76%;
+    margin-top: -9%;
+    width: 19vh;
+}
+
+.desktop img {
+    display: flex;
+    margin-left: 72%;
+    margin-top: 5%;
+    width: 35vh; 
+}
+
+.ipad img {
+    display: flex;
+    margin-left: 12%;
+    margin-top: -20%;
+    width: 25vh; 
+}
+
+.fajardo{
+    display: block;
+    padding: 0px;
+    margin: -110px;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: 8.2vh;
+
+}
+
+.first_name{
+    display: block;
+    padding: 0px;
+    margin: -20px;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: 5vh;
+
+}
+
+.quote{
+    display: block;
+    padding: 0px;
+    margin: -20px;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: 4.2vh;
+
+}
